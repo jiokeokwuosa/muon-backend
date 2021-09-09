@@ -1,0 +1,39 @@
+{
+  "name": "muon-backend",
+  "version": "1.0.0",
+  "description": "Muon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm src/",
+    "dev": "nodemon -r esm src/"   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiokeokwuosa/muon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiokeokwuosa/muon/issues"
+  },
+  "homepage": "https://github.com/jiokeokwuosa/muon#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "morgan": "^1.10.0",  
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"    
+  },  
+  "engines": {
+    "node": "v16.4.0"
+  }
+}
