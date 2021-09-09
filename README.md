@@ -57,8 +57,8 @@ None
 | POST /baseURL/article/           | Create an article                          |
 | POST /baseURL/article/comment   | Comment on an article                         |
 | GET /baseURL/article/           | Get a list of the articles                             |
-| PATCH /baseURL/article/comment/:commentId   | Update an article                            |
-| DELETE /baseURL/article/comment/:commentId   | Delete an article                         |
+| PATCH /baseURL/article/comment/:commentId   | Update a comment                           |
+| DELETE /baseURL/article/comment/:commentId   | Delete a comment                        |
 
 
 ## Author
