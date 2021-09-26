@@ -1,4 +1,4 @@
-# MUON Software Engineer Assesment
+# MUON
 Muon Club is a digital platform and exclusive community where outstanding ideas meet capital ... We live in a unique time, where technology instantly connects ..
 
 ## Required Features
